@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kraax
 - 👀 I’m interested in IT Technology and Programming
 - 🌱 I’m currently learning C# and C++
-- 💞️ I’m looking to collaborate on nothing
+- 💞️ I’m not looking for collaboration
 - 📫 How to reach me? by my e-mail: dawidpmg@proton.me
 
 <!---
