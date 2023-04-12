@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kraax
 - 👀 I’m interested in IT Technology and Programming
-- 🌱 I’m currently learning C# and C++
+- 🌱 I’m currently learning python 
 - 💞️ I’m not looking for collaboration
 - 📫 How to reach me? by my e-mail: dawidpmg@proton.me
 
